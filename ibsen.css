@@ -19,6 +19,14 @@
 .name{
     font-family: fantasy;
     font-size: small;
+    background-color: orange;
+    text-shadow: 5px 5px 5px rgb(26, 11, 233);
+    border-style: double;
+}
+
+.name:hover{
+    color: chocolate;
+    background-color: #5ee962;
 }
 
 .brack{
