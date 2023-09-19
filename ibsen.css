@@ -1,0 +1,52 @@
+.speech{
+    font-family: 'Times New Roman';
+    font-size: small;
+    color: black;
+}
+
+.direction{
+    font-family: sans-serif;
+    font-size: 80%;
+    color:black;
+    background-color:aqua;
+}
+
+.direction:hover{
+    color: rgb(32, 117, 177);
+    background-color: rgb(161, 209, 17);
+}
+
+.name{
+    font-family: fantasy;
+    font-size: small;
+}
+
+.brack{
+    color: rgb(240, 13, 187);
+    font-family: 'Courier New';
+    font-size: 80%;
+}
+
+.hedda{
+    color: rgb(139, 63, 6);
+    font-family: monospace;
+    font-size: medium;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 2;
+    width: 90%;
+    margin: 25px 50px 75px;
+    border: 1px solid #080d0e;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+    border: 1px solid #080d0e;
+  }
+
+tr:nth-child(even) {
+    background-color: #afd8e0;
+  }
